@@ -36,3 +36,6 @@ print(text)
 [Data files](data)
 
 [References](references)
+
+Image:
+![Three circular icons that represent a phone, the python logo, and money.](images/fintech.png)
