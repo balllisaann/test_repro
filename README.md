@@ -25,3 +25,5 @@ A `print` function in Python displays the text or variable passed in the functio
 text = ‘This is a sentence that you would like to display.’
 print(text)
 ```
+
+> "...to boldly go where no one has gone before."
