@@ -18,3 +18,10 @@ I don't know why the line is following me...
 
 ---This is a horizontal line---
 and some more text
+
+A `print` function in Python displays the text or variable passed in the function as output:
+
+```python
+text = ‘This is a sentence that you would like to display.’
+print(text)
+```
